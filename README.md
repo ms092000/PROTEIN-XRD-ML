@@ -23,6 +23,6 @@ boundary of each bragg refelction pixel which penalises the model strongly on ge
 image.
 
 Further I used some other L2 regularization and Batch Normalisation for efficient learning and could train an Neural Network which would effectively identify
-over 99% of all bragg reflection on the image while preserving the morphology of the spot essential for understanding the quality of the crystal. 
+over ~95% of all bragg reflection on the image while preserving the morphology of the spot essential for understanding the quality of the crystal. 
 
 I further want to integrate indexing algorithms with this to make a software package for efficent post processing of XRD data.
